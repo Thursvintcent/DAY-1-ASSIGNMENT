@@ -89,3 +89,4 @@ Limit your point to a maximum of three points as you give appropriate scenarios
 
 **Effectiveness**
 It is more effective because of its clear,specicic,concise,detailed and carefull crafting provided.
+  
